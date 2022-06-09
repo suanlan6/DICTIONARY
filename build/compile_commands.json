@@ -1,0 +1,32 @@
+[
+{
+  "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\dictionary_autogen\\mocs_compilation.cpp.obj -c F:\\cpp\\t2\\build\\dictionary_autogen\\mocs_compilation.cpp",
+  "file": "F:/cpp/t2/build/dictionary_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\dictionary.cpp.obj -c F:\\cpp\\t2\\src\\dictionary.cpp",
+  "file": "F:/cpp/t2/src/dictionary.cpp"
+},
+{
+  "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\history.cpp.obj -c F:\\cpp\\t2\\src\\history.cpp",
+  "file": "F:/cpp/t2/src/history.cpp"
+},
+{
+  "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\main.cpp.obj -c F:\\cpp\\t2\\src\\main.cpp",
+  "file": "F:/cpp/t2/src/main.cpp"
+},
+{
+  "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\mysqlmanager.cpp.obj -c F:\\cpp\\t2\\src\\mysqlmanager.cpp",
+  "file": "F:/cpp/t2/src/mysqlmanager.cpp"
+},
+{
+  "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\word.cpp.obj -c F:\\cpp\\t2\\src\\word.cpp",
+  "file": "F:/cpp/t2/src/word.cpp"
+}
+]

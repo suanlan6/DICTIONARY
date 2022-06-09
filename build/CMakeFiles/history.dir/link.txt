@@ -1,0 +1,3 @@
+F:\cmake\bin\cmake.exe -E rm -f CMakeFiles\history.dir/objects.a
+F:\QT5.14\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\history.dir/objects.a @CMakeFiles\history.dir\objects1.rsp
+F:\QT5.14\Tools\mingw730_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\history.dir/objects.a -Wl,--no-whole-archive -o history.exe -Wl,--out-implib,libhistory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\history.dir\linklibs.rsp

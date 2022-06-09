@@ -1,0 +1,4 @@
+F:/cpp/t2/build/CMakeFiles/dictionary.dir
+F:/cpp/t2/build/CMakeFiles/edit_cache.dir
+F:/cpp/t2/build/CMakeFiles/rebuild_cache.dir
+F:/cpp/t2/build/CMakeFiles/dictionary_autogen.dir

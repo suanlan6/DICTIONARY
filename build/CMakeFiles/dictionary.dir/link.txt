@@ -1,0 +1,3 @@
+F:\cmake\bin\cmake.exe -E rm -f CMakeFiles\dictionary.dir/objects.a
+F:\QT5.14\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\dictionary.dir/objects.a @CMakeFiles\dictionary.dir\objects1.rsp
+F:\QT5.14\Tools\mingw730_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\dictionary.dir/objects.a -Wl,--no-whole-archive -o dictionary.exe -Wl,--out-implib,libdictionary.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dictionary.dir\linklibs.rsp
