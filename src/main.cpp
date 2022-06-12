@@ -1,6 +1,9 @@
 #include "dictionary.h"
 //#include "history.h"
 #include <QApplication>
+#include "curl/curl.h"
+#include "openssl/md5.h"
+
 #pragma comment(lib, "user32.lib")
 
 int main(int argc, char *argv[])

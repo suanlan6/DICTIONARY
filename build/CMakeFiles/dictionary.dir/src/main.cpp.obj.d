@@ -528,4 +528,23 @@ CMakeFiles/dictionary.dir/src/main.cpp.obj: F:\cpp\t2\src\main.cpp \
  F:/mysql/mysql-8.0.28-winx64/include/mysql/plugin_auth_common.h \
  F:/mysql/mysql-8.0.28-winx64/include/mysql_version.h \
  F:/mysql/mysql-8.0.28-winx64/include/mysql_time.h \
- F:/mysql/mysql-8.0.28-winx64/include/errmsg.h F:\cpp\t2\src\history.h
+ F:/mysql/mysql-8.0.28-winx64/include/errmsg.h F:\cpp\t2\src\history.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/curl.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/curlver.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/system.h \
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/ws2tcpip.h \
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/ws2ipdef.h \
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/in6addr.h \
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/psdk_inc/_ip_mreq1.h \
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/mstcpip.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/easy.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/multi.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/curl.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/urlapi.h \
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/options.h \
+ F:/openssl-3.0.3/output/include/openssl/md5.h \
+ F:/openssl-3.0.3/output/include/openssl/macros.h \
+ F:/openssl-3.0.3/output/include/openssl/opensslconf.h \
+ F:/openssl-3.0.3/output/include/openssl/configuration.h \
+ F:/openssl-3.0.3/output/include/openssl/opensslv.h \
+ F:/openssl-3.0.3/output/include/openssl/e_os2.h

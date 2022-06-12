@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "F:/cpp/t2/src/history.cpp" "CMakeFiles/dictionary.dir/src/history.cpp.obj" "gcc" "CMakeFiles/dictionary.dir/src/history.cpp.obj.d"
   "F:/cpp/t2/src/main.cpp" "CMakeFiles/dictionary.dir/src/main.cpp.obj" "gcc" "CMakeFiles/dictionary.dir/src/main.cpp.obj.d"
   "F:/cpp/t2/src/mysqlmanager.cpp" "CMakeFiles/dictionary.dir/src/mysqlmanager.cpp.obj" "gcc" "CMakeFiles/dictionary.dir/src/mysqlmanager.cpp.obj.d"
+  "F:/cpp/t2/src/webTranslate.cpp" "CMakeFiles/dictionary.dir/src/webTranslate.cpp.obj" "gcc" "CMakeFiles/dictionary.dir/src/webTranslate.cpp.obj.d"
   "F:/cpp/t2/src/word.cpp" "CMakeFiles/dictionary.dir/src/word.cpp.obj" "gcc" "CMakeFiles/dictionary.dir/src/word.cpp.obj.d"
   )
 

@@ -82,6 +82,12 @@
 			"UVLADIE3JM/moc_mysqlmanager.cpp",
 			null
 		],
+		[
+			"F:/cpp/t2/src/webTranslate.h",
+			"MU",
+			"UVLADIE3JM/moc_webTranslate.cpp",
+			null
+		],
 		[ "F:/cpp/t2/src/word.h", "MU", "UVLADIE3JM/moc_word.cpp", null ]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -100,6 +106,9 @@
 		"F:/cpp/t2/build",
 		"F:/cpp/t2",
 		"F:/mysql/mysql-8.0.28-winx64/include",
+		"F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include",
+		"F:/openssl-3.0.3/output/include",
+		"F:/jsoncpp/jsoncpp/include",
 		"F:/QT5.14/5.14.2/mingw73_64/include",
 		"F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets",
 		"F:/QT5.14/5.14.2/mingw73_64/include/QtGui",
@@ -141,6 +150,7 @@
 		[ "F:/cpp/t2/src/history.cpp", "MU", null ],
 		[ "F:/cpp/t2/src/main.cpp", "MU", null ],
 		[ "F:/cpp/t2/src/mysqlmanager.cpp", "MU", null ],
+		[ "F:/cpp/t2/src/webTranslate.cpp", "MU", null ],
 		[ "F:/cpp/t2/src/word.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

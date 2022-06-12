@@ -11,6 +11,7 @@
 #include "mysqlmanager.h"
 #include <fstream>
 #include <direct.h>
+#include "webTranslate.h"
 
 static MySQLManager mysql;
 static ConnectionInfo info;
@@ -92,7 +93,9 @@ void dictionary::on_pushButton_3_clicked()
         }
     }
     //std::cout << s << std::endl;
-    on_textBrowser_destroyed();
+    //on_textBrowser_destroyed();
+    std::string ans = translate(s);
+    ui->textBrowser->setText(QString::fromStdString(ans));
 }
 
 //历史查询按钮

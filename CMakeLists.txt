@@ -14,6 +14,20 @@ include_directories(F:\\mysql\\mysql-8.0.28-winx64\\include)
 link_directories(F:\\mysql\\mysql-8.0.28-winx64\\lib) #添加动态连接库的路径
 link_libraries(libmysql)
 
+include_directories(F:\\curl-7.76.1\\curl-curl-7_76_1\\builds\\libcurl-vc14-x64-release-dll-ipv6-sspi-schannel\\include)
+link_directories(F:\\curl-7.76.1\\curl-curl-7_76_1\\builds\\libcurl-vc14-x64-release-dll-ipv6-sspi-schannel\\lib)
+link_libraries(libcurl)
+
+include_directories(F:\\openssl-3.0.3\\output\\include)
+link_directories(F:\\openssl-3.0.3\\output\\lib)
+link_libraries(libcrypto)
+link_libraries(libssl)
+
+include_directories(F:\\jsoncpp\\jsoncpp\\include)
+link_directories(F:\\jsoncpp\\jsoncpp\\build\\lib)
+link_libraries(libjsoncpp)
+link_libraries(libjsoncpp.dll)
+
 # Specify MSVC UTF-8 encoding   
 add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
 add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")

@@ -26,6 +26,11 @@
 },
 {
   "directory": "F:/cpp/t2/build",
+  "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\webTranslate.cpp.obj -c F:\\cpp\\t2\\src\\webTranslate.cpp",
+  "file": "F:/cpp/t2/src/webTranslate.cpp"
+},
+{
+  "directory": "F:/cpp/t2/build",
   "command": "F:\\QT5.14\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/dictionary.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\dictionary.dir\\src\\word.cpp.obj -c F:\\cpp\\t2\\src\\word.cpp",
   "file": "F:/cpp/t2/src/word.cpp"
 }

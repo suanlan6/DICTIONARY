@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/dictionary.dir/src/main.cpp.obj.d"
   "CMakeFiles/dictionary.dir/src/mysqlmanager.cpp.obj"
   "CMakeFiles/dictionary.dir/src/mysqlmanager.cpp.obj.d"
+  "CMakeFiles/dictionary.dir/src/webTranslate.cpp.obj"
+  "CMakeFiles/dictionary.dir/src/webTranslate.cpp.obj.d"
   "CMakeFiles/dictionary.dir/src/word.cpp.obj"
   "CMakeFiles/dictionary.dir/src/word.cpp.obj.d"
   "CMakeFiles/dictionary_autogen.dir/AutogenUsed.txt"

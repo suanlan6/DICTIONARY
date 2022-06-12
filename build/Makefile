@@ -261,6 +261,30 @@ src/mysqlmanager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dictionary.dir\build.make CMakeFiles/dictionary.dir/src/mysqlmanager.cpp.s
 .PHONY : src/mysqlmanager.cpp.s
 
+src/webTranslate.obj: src/webTranslate.cpp.obj
+.PHONY : src/webTranslate.obj
+
+# target to build an object file
+src/webTranslate.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dictionary.dir\build.make CMakeFiles/dictionary.dir/src/webTranslate.cpp.obj
+.PHONY : src/webTranslate.cpp.obj
+
+src/webTranslate.i: src/webTranslate.cpp.i
+.PHONY : src/webTranslate.i
+
+# target to preprocess a source file
+src/webTranslate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dictionary.dir\build.make CMakeFiles/dictionary.dir/src/webTranslate.cpp.i
+.PHONY : src/webTranslate.cpp.i
+
+src/webTranslate.s: src/webTranslate.cpp.s
+.PHONY : src/webTranslate.s
+
+# target to generate assembly for a file
+src/webTranslate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dictionary.dir\build.make CMakeFiles/dictionary.dir/src/webTranslate.cpp.s
+.PHONY : src/webTranslate.cpp.s
+
 src/word.obj: src/word.cpp.obj
 .PHONY : src/word.obj
 
@@ -310,6 +334,9 @@ help:
 	@echo ... src/mysqlmanager.obj
 	@echo ... src/mysqlmanager.i
 	@echo ... src/mysqlmanager.s
+	@echo ... src/webTranslate.obj
+	@echo ... src/webTranslate.i
+	@echo ... src/webTranslate.s
 	@echo ... src/word.obj
 	@echo ... src/word.i
 	@echo ... src/word.s
