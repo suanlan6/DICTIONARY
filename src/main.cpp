@@ -1,5 +1,5 @@
+//main.cpp
 #include "dictionary.h"
-//#include "history.h"
 #include <QApplication>
 #include "curl/curl.h"
 #include "openssl/md5.h"
@@ -9,8 +9,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    dictionary w;
-    w.show();
-    //m_second = new history;
+    dictionary w; //创建主页面
+    w.show(); //展示主页面
     return a.exec();
 }

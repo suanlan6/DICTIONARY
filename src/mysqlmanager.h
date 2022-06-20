@@ -1,3 +1,4 @@
+//mysqlmanager.h
 #ifndef _MYSQLMANAGER_H
 #define _MYSQLMANAGER_H
 #include <winsock2.h>
@@ -20,15 +21,15 @@ static const char* UNIX_SOCKET         = nullptr;
 static const unsigned long CLIENT_FLAG = 0;
  
 struct ConnectionInfo {
-    const char*    host;            // ������ַ
-    const char*    user;            // �û���
-    const char*    password;        // ����
-    const char*    database;        // ���ݿ���
-    unsigned int   port;            // �˿ں�
-    const char*    unix_socket;     // unix���ӱ�ʶ
-    unsigned long  clientflag;      // �ͻ������ӱ�־
+    const char*    host;            // 主机名
+    const char*    user;            // 用户名
+    const char*    password;        // 密码
+    const char*    database;        // 数据库名
+    unsigned int   port;            // 端口号
+    const char*    unix_socket;     // uinx socket
+    unsigned long  clientflag;      // 用户状态
 
-    // ���캯��������һЩĬ��ֵ
+    // 初始化用户连接
     ConnectionInfo() :
         host(HOST),
         user(USER),
@@ -43,22 +44,23 @@ struct ConnectionInfo {
 
 class MySQLManager {
 public:
-// �������ݿ�
+// 连接数据库
     bool Init(ConnectionInfo& info);
 
-    // �ͷ�����
+    // 关闭数据库连接
     bool FreeConnect();
 
+    //执行sql语句
     bool ExecuteSql(const char* sql);
 
-    // ��ѯ����
+    // 获得查询结果
     MYSQL_RES* QueryData(const char* sql);
 
-    // ��ӡ�����
+    // 输出查询结果
     std::string PrintQueryRes();
 
 private:
-    MYSQL m_mysql;                // mysql����
-    MYSQL_RES* m_res;            // ��ѯ�����
+    MYSQL m_mysql;                // mysql操作实体
+    MYSQL_RES* m_res;            // 查询结果集
 };
 #endif

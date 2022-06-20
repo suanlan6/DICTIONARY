@@ -54,6 +54,7 @@
         "typeinfo": "cpp",
         "variant": "cpp",
         "qmessagebox": "cpp",
-        "qapplication": "cpp"
+        "qapplication": "cpp",
+        "cstring": "cpp"
     }
 }

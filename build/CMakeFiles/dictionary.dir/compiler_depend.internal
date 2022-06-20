@@ -1077,17 +1077,61 @@ CMakeFiles/dictionary.dir/src/dictionary.cpp.obj
  F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h
  F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++io.h
  F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/fstream.tcc
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/QDebug
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qdebug.h
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qtextstream.h
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qset.h
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qcontiguouscache.h
  F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets/QMessageBox
  F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h
  F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets/qdialog.h
  F:/cpp/t2/src/word.h
  F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/direct.h
  F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/io.h
+ F:/cpp/t2/src/webTranslate.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cassert
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/iomanip
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/locale
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/locale_facets_nonio.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/time_members.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/locale_facets_nonio.tcc
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/locale_conv.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stringfwd.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/allocator.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/codecvt.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/unique_ptr.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cstring
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/curl.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/curlver.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/system.h
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/ws2tcpip.h
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/ws2ipdef.h
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/in6addr.h
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/psdk_inc/_ip_mreq1.h
+ F:/QT5.14/Tools/mingw730_64/x86_64-w64-mingw32/include/mstcpip.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/easy.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/multi.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/curl.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/urlapi.h
+ F:/curl-7.76.1/curl-curl-7_76_1/builds/libcurl-vc14-x64-release-dll-ipv6-sspi-schannel/include/curl/options.h
+ F:/openssl-3.0.3/output/include/openssl/md5.h
+ F:/openssl-3.0.3/output/include/openssl/macros.h
+ F:/openssl-3.0.3/output/include/openssl/opensslconf.h
+ F:/openssl-3.0.3/output/include/openssl/configuration.h
+ F:/openssl-3.0.3/output/include/openssl/opensslv.h
+ F:/openssl-3.0.3/output/include/openssl/e_os2.h
+ F:/jsoncpp/jsoncpp/include/json/json.h
+ F:/jsoncpp/jsoncpp/include/json/config.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/sstream
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/sstream.tcc
+ F:/jsoncpp/jsoncpp/include/json/allocator.h
+ F:/jsoncpp/jsoncpp/include/json/version.h
+ F:/jsoncpp/jsoncpp/include/json/json_features.h
+ F:/jsoncpp/jsoncpp/include/json/forwards.h
+ F:/jsoncpp/jsoncpp/include/json/reader.h
+ F:/jsoncpp/jsoncpp/include/json/value.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/deque
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_deque.h
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/deque.tcc
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/stack
+ F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_stack.h
+ F:/jsoncpp/jsoncpp/include/json/writer.h
 
 CMakeFiles/dictionary.dir/src/history.cpp.obj
  F:/cpp/t2/src/history.cpp

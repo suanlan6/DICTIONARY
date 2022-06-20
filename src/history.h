@@ -1,6 +1,6 @@
+//history.h
 #ifndef HISTORY_H
 #define HISTORY_H
-
 #include <QMainWindow>
 #include <QMainWindow>
 #include <QDialog>
@@ -23,10 +23,8 @@ public:
     ~history();
 
 private slots:
-    void on_pushButton_clicked();
-
-    void on_textBrowser_destroyed();
-
+    void on_pushButton_clicked(); //槽函数——清空按钮
+    void on_textBrowser_destroyed(); //槽函数——输出框
 private:
     Ui::history *ui;
 };

@@ -535,11 +535,6 @@ CMakeFiles/dictionary.dir/src/dictionary.cpp.obj: \
  F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
  F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
  F:/QT5.14/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/fstream.tcc \
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/QDebug \
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qdebug.h \
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qtextstream.h \
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qset.h \
- F:/QT5.14/5.14.2/mingw73_64/include/QtCore/qcontiguouscache.h \
  F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets/QMessageBox \
  F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h \
  F:/QT5.14/5.14.2/mingw73_64/include/QtWidgets/qdialog.h \
